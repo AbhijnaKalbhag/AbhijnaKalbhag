@@ -63,7 +63,7 @@
 
 ![Abhijna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhijnaKalbhag&theme=chartreuse-dark&showicons=true&show_icons=true&count_private=true])
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijnaKalbhag&layout=compact&theme=chartreuse-dark&langs_count=8])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijnaKalbhag&theme=chartreuse-dark&hide_progress=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhijnaKalbhag&theme=chartreuse-dark&count_private=true)
 
