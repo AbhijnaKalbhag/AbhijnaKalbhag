@@ -38,7 +38,7 @@ The motivation behind this portfolio is to bridge the gap between theoretical al
 - To create a comprehensive resource that maps e-commerce functionalities to appropriate algorithmic solutions.
 
 ## Architecture
-![image](https://github.com/AbhijnaKalbhag/Ecommerce-Portfolio.github.io/assets/136738568/dc3efb74-4287-4c7e-9ccc-93e8a8802538)
+![image]![download](https://github.com/AbhijnaKalbhag/AbhijnaKalbhag/assets/136738568/376db2df-f054-4051-bc36-b90a1da30ad8)
 
 ## Functionalities
 (click on each functionality to explore further)
