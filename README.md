@@ -2,8 +2,6 @@
 
 
 
-[Ecommerce-portfolio](./home.md)
-
 ### 🤖 AI / APIs
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
@@ -71,6 +69,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhijnaKalbhag&theme=chartreuse-dark&count_private=true)
  
 
-# [![Abhijna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhijnaKalbhag&theme=github-compact)](https://github.com/AbhijnaKalbhag/github-readme-activity-graph)
 
 
